@@ -1,5 +1,14 @@
 I will keep the reading notes from [Art of Doing Science and Engineering](https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/9056995006) by Richard R. Hamming. This book is based on the course that avialable on YouTube - [Here](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)
 
+## Chapter 2
+* do a quick back of the envelop calculation
+* We should note here transmission through space (typically signaling) is the same as transmission through time (storage)
+* Furthermore, the high density of components in an IC means lower cost and higher speeds of computing (the parts must be close to each other since otherwise the time of transmission of signals will significantly slow down the speed of computation). 
+* I realized computers would allow the simulatino of many different kinds of experiments. 
+* This was Galileo's great point which started the modern scientific revolution - look at nature not in books. 
+* The people at the bottom do not have the larger, global view, but at the top they do not have the local view of all the details, many of which can often be very important, so either extreme gets poor results.
+* The Buddha told his disciples, “Believe nothing, no matter where you read it, or who said it, no matter if I have said it, unless it agrees with your own reason and your own common sense”. I say the same to you—you must assume the responsibility for what you believe.
+
 ## Chapter 1
 * but I regard the study of successes as being basically more important than the study of failures, there are so many ways of being wrong and so few of being right, studying successes is more efficient. 
 * Thus I recommend when you hear quantitative remarks such as the above you turn to a quick modeling to see if you believe what is being said, especially when given in the public media like the press and TV.
