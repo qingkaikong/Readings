@@ -1,5 +1,12 @@
 This will keep the notes from the book I just finish - [The Formula: The Universal Laws of Success](https://www.amazon.com/The-Formula/dp/0316526479/) by Altert-Laszlo Barabasi. 
 
+## Chapter 2
+* She could have turned to Google to figure out how many of us really care about a player, as we'd done for the German pilots. 
+* There was only one way to interpret her results: Success in tennis is determined by a single factor - strong athleticism. 
+* Rather, performance and ambition, working in tandem, would determine his future success
+* It's your daughter who makes Boston Latin into the elite school it is. 
+* The school doesn't make you great, you are great to begin with! 
+* It's performance and ambition - where she thinks she belongs - that determine your daughter's success. 
 
 ## Chapter 1
 * So they proposed a simple but clever solution. They used Google hits, measuring how many times people searched for these pilots by name on the Internet. 
