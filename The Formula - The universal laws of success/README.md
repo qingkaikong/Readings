@@ -1,5 +1,24 @@
 This will keep the notes from the book I just finish - [The Formula: The Universal Laws of Success](https://www.amazon.com/The-Formula/dp/0316526479/) by Altert-Laszlo Barabasi. 
 
+## Chapter 3 
+* Since success is a collective phenomenon, measured by how our community reacts to a performance, it's impossible to understand the phenomenon of success without also observing the network it takes place within. 
+* Today, many art historians consider *Fountain* to be the single most important work of modern art. 
+* One person's trash is another person's treasure.
+* Performance drives success, but when performance can't be measured, networks drive success. 
+* We did so by mapping the unseen links that shape how artists move among galleries and museums. 
+* If a gallery sees that an artist is exhibited by other institutions whose instincts it trusts, it's far more likely to take that artist on. 
+* If your work is exhibited at one of these hubs, it's as if you hop onto a merry-go-round of success, looping around and around to other major institutions with ease. 
+* But you'll be trapped there - none of them can teleport you to the mainland, where the action is. 
+* To be successful as an artist, you have to have your work shown by a gallery for the same reason, say, that Dior never sold his originals from a counter in Woolworth's
+* The dirty but open secret in art world is that once you've made it, it's in everyone's interest to keep you "made". 
+* It's a pyramid scheme that pushes prices in only one direction. 
+* While the art world may lack performance metrics, it doesn't lack order. 
+* They'd started at teh bottom but managed to break through, finishing at the top. 
+* Instead, they cast a wide net, as the saying goes, reaching outward and showing at institutions of widely varying location and reputation. 
+* Rather than remaining stubbornly loyal to a few exhibition spaces, they surveyed their options and took advantage of a wide range of opportunities. 
+* But climbing the corporate ladder isn't realistic if we can't prove we are the best at what we do. 
+* **The second law** Performance is bounded, but success is unbounded. 
+
 ## Chapter 2
 * She could have turned to Google to figure out how many of us really care about a player, as we'd done for the German pilots. 
 * There was only one way to interpret her results: Success in tennis is determined by a single factor - strong athleticism. 
