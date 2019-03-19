@@ -1,5 +1,23 @@
 This will keep the notes from the book I just finish - [The Formula: The Universal Laws of Success](https://www.amazon.com/The-Formula/dp/0316526479/) by Altert-Laszlo Barabasi. 
 
+## Chapter 4
+* Bell curves decay exponentially as you depart from the average, meaning that it is exponentially rare to find outliers. 
+* And becuase performance is so bounded, it allows us to predict, with impressive accuracy, what our own ultimate limits are. 
+* We are good at calling out the crap. 
+* All the candidates were equally qualified and after a long day of interviews only the bright-colored socks stood out. 
+* As the hiring manager, I want to get a sense of a potential employee's values or personality during an interview. 
+* This suggests we should bring our genuine self to an interview. 
+* When we lack hard data to go on, the factors that sway us are subtle or even unconscious, you don't need a whole song-and-dance routine. 
+* It's how important the unspoken aspects of our self-presentation are. 
+* First, no one performing on the first day ever won the competition. There were only two performers on the second day and there was one who performed on the last day among the grand prizewinners. Half of the remaining eight winners all happened to perform on day five of the competition. 
+* systematically ranking almost three positions below those who performed on the fifth day. 
+* Would you risk giving him the masimum grade? Probably not. Doing so would back you into a corner if you happened to hear an even more impressive performance later. 
+* The later performancers, those with the highest immediacy in our brains, come out ahead. 
+* The later a singer performs in the evening, the higher the chances that he or she will take home the trophy. 
+* you must remember that your competitors are just like you - prepared, accomplished, and ready for the job. 
+* Put it off! Put if off for as long as you can. 
+* The good news is that once you get that first win, the data shows you will win again and again. There is a secret, mindlessly metastasizing aspect to reward. 
+
 ## Chapter 3 
 * Since success is a collective phenomenon, measured by how our community reacts to a performance, it's impossible to understand the phenomenon of success without also observing the network it takes place within. 
 * Today, many art historians consider *Fountain* to be the single most important work of modern art. 
