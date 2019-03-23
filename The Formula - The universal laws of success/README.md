@@ -1,5 +1,28 @@
 This will keep the notes from the book I just finish - [The Formula: The Universal Laws of Success](https://www.amazon.com/The-Formula/dp/0316526479/) by Altert-Laszlo Barabasi. 
 
+## Chapter 5
+* Superstar exist because success is unbounded
+* There is a disproportionate relationship between the quality of superstars' work and their success, meaning that slightly better performance can lead to an outsized amount of success. 
+* Performance is bounded, but success is unbounded
+* The unbounded nature of success is based on a different mathematical relationship called a power law.
+* Power laws describe the distribution of the most accepted success measure: wealth
+* Superstars are the few exceptionally shiny, bright, visible 1 percent
+* What distinguishes them from everyone else isn't their performance, it's their success
+* Your performance must scale
+* do scale, broadcasts of the games reach millions of fans
+* We will all do better if we are challenged by strong, competitive peers
+* It turns out that competing against a superstar has the opposite effect: it measureably lowers our performance.
+* Yes, healthy competition is good, it improves our performance. But competing against superstars is a whole different story. 
+* Superstars suppress you if you compete against them, but they may boost you if you cooperate with them
+* he improves the productivity of the entire department by an astonishing 54 percent. 
+* Also worth remembering is that all superstars are bounded by the limits of performance in their field. 
+* In moments of intimidation, we can bring our heroes down to level
+* Hopelessness, not superstars, is what's so defeating. 
+* And we've less likely to speak up if we believe someone else in the room inherently knows far more about the subject. But if we come to competition assuming equal footing, we are far more likely to succeed. 
+* We may be able to innovate with confidence, brining creative ideas to teh table without questioning our right to be there. 
+* Why do superstars dominate in realm after realm? How do any of us become a runaway success in the first place?
+* **The third law** Previous success * fitness = future success. When fitness and social influence work in tandem, success has no boundaries. 
+
 ## Chapter 4
 * Bell curves decay exponentially as you depart from the average, meaning that it is exponentially rare to find outliers. 
 * And becuase performance is so bounded, it allows us to predict, with impressive accuracy, what our own ultimate limits are. 
